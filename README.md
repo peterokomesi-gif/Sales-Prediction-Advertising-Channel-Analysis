@@ -311,11 +311,11 @@ The project demonstrates how data science techniques can be used to transform ad
 
 ##  Author
 
-**Your Name**
+Peter Okomesi
 
 Data Science Intern
 
-GitHub: https://github.com/your-username
+GitHub: github.com/peterokomesi-gif
 
 LinkedIn:www.linkedin.com/in/peter-okomesi-30b98234
 
